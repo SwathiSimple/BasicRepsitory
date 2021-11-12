@@ -1,0 +1,11 @@
+public class
+{
+public add (int a, int b)
+{
+return a+b;
+}
+public add (int a, int b)
+{
+return (a+b).tostring();
+}
+}
